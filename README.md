@@ -17,14 +17,7 @@ To create a new React project with Vite, follow these steps:
    # Using npm
    npm create vite@latest my-vite-app -- --template react
 
-   # Using yarn
-   yarn create vite my-vite-app --template react
-
-   # Using pnpm
-   pnpm create vite my-vite-app --template react
-
-
- # cd my-vite-app
+# cd my-vite-app
 
 
 install method
@@ -32,31 +25,13 @@ install method
 # Using npm
 npm install
 
-# Using yarn
-yarn install
-
-# Using pnpm
-pnpm install
-
-
 FOR RUN COMMAND FOR DEVELOPEMENT SERVER
 # Using npm
 npm run dev
-
-# Using yarn
-yarn dev
-
-# Using pnpm
-pnpm dev
 
 BUID COMMAND 
 
 # Using npm
 npm run build
 
-# Using yarn
-yarn build
-
-# Using pnpm
-pnpm build
 
